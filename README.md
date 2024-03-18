@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @snaruse-dmx
 - 👀 I’m interested in ...
+  - Surfing
+  - roadmaps
 - 🌱 I’m currently learning ...
- - postgeSQL, AWS, java, python, VScode, Docker
+  - RDBMS
+    - postgeSQL
+  - cloud
+    - AWS
+  - programming languages
+    - java
+    - python
+  - dev environments
+    - VScode
+    - Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
