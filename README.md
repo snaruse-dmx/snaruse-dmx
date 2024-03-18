@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @snaruse-dmx
+## name
+- @snaruse-dmx
+
+## favorite
 - 👀 I’m interested in ...
   - Surfing
   - roadmaps
+## learning
 - 🌱 I’m currently learning ...
   - RDBMS
     - postgeSQL
@@ -13,6 +17,7 @@
   - dev environments
     - VScode
     - Docker
+## other
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
